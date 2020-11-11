@@ -1,0 +1,2 @@
+# Greedy_Algorithm-C-code-
+There is a person who wants to buy some wine from wine yard. Wine yard consists different wine barrels and each one has two values containing the number of bottles in the barrel and the price of the whole barrel. The person wants to find the maximum cost of wine bottles that he can carry from his bag. But there are some constraints and limitations  The person can only fill the bottles which are in his bag.  He can’t mix wine bottle due to any reason. 
